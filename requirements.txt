@@ -1,0 +1,7 @@
+random2
+numpy
+pandas
+tqdm
+scipy
+scikit-learn
+lightgbm
